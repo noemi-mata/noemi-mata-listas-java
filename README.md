@@ -10,6 +10,11 @@ Modalidad: Individual, 5 puntos, lenguaje Java
 
 Fecha: 23/10/2026
 
+## DOCUMENTO PDF - MATA_NOEMI_LISTASJAVA.PDF
+
+[Mata_Noemi_ListasJava.pdf](https://github.com/user-attachments/files/33860843/Mata_Noemi_ListasJava.pdf)
+
+
 ## Descripción del proyecto
 
 Este repositorio contiene la solución de 8 problemas de la plataforma omegaUp usando listas enlazadas implementadas desde cero. Cada solución tiene su propia clase Nodo y su propia clase de lista (ListaSimple o ListaDoble), junto con una clase Main que lee la entrada y muestra la salida.
